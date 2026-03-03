@@ -1,0 +1,25 @@
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore compiled binaries / executables
+*.exe
+*.out
+a.out
+
+# Common build directories
+build/
+bin/
+out/
+
+# macOS files
+.DS_Store
+*.dSYM/
+
+# Ignore compiled executables in 'cpp interview/basics' but keep sources
+# (escape space in directory name)
+cpp\ interview/basics/*
+!cpp\ interview/basics/*.cpp
+!cpp\ interview/basics/*.c
+!cpp\ interview/basics/*.h
+!cpp\ interview/basics/*.hpp
