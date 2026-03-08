@@ -1,5 +1,5 @@
-// 编译指令：g++ const.cpp -o const
-// 运行指令：./const
+// 编译指令：g++ const_pointers.cpp -o const_pointers
+// 运行指令：./const_pointers
 
 #include <iostream>
 #define INTPTR1 int *

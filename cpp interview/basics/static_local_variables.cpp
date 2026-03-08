@@ -1,5 +1,5 @@
-// 编译指令：g++ static_local_var.cpp -o static_local_var
-// 运行指令：./static_local_var
+// 编译指令：g++ static_local_variables.cpp -o static_local_variables
+// 运行指令：./static_local_variables
 
 /*
  * @brief 演示C++静态局部变量（static local variable）的核心特性

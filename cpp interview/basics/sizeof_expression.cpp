@@ -1,5 +1,5 @@
-// 编译指令：g++ sizeof.cpp -o sizeof
-// 运行指令：./sizeof
+// 编译指令：g++ sizeof_expression.cpp -o sizeof_expression
+// 运行指令：./sizeof_expression
 
 #include <iostream>
 using namespace std;

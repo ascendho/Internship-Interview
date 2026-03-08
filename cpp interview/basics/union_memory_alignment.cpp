@@ -1,5 +1,5 @@
-// 编译指令：g++ union.cpp -o union
-// 运行指令：./union
+// 编译指令：g++ union_memory_alignment.cpp -o union_memory_alignment
+// 运行指令：./union_memory_alignment
 
 /*
     1. Union 的核心：共享内存，大小 =“装下最大成员” 且 “满足最大对齐模数” 的最小字节数。

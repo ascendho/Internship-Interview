@@ -1,5 +1,5 @@
-// 编译指令：g++ struct_and_class.cpp -o struct_and_class
-// 运行指令：./struct_and_class
+// 编译指令：g++ struct_vs_class.cpp -o struct_vs_class
+// 运行指令：./struct_vs_class
 
 // class 可以用于定义模板参数，struct 不能用于定义模板参数
 

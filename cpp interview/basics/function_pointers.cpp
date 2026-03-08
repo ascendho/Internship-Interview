@@ -1,5 +1,5 @@
-// 编译指令：g++ funcPointer.cpp -o funcPointer
-// 运行指令：./funcPointer
+// 编译指令：g++ function_pointers.cpp -o function_pointers
+// 运行指令：./function_pointers
 
 #include <iostream>
 using namespace std;

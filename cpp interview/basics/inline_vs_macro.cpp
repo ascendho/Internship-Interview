@@ -1,5 +1,5 @@
-// 编译指令：g++ inline.cpp -o inline
-// 运行指令：./inline
+// 编译指令：g++ inline_vs_macro.cpp -o inline_vs_macro
+// 运行指令：./inline_vs_macro
 
 #include <iostream>
 // 宏定义实现最大值：通过文本替换返回a和b中的较大值

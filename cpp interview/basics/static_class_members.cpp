@@ -1,5 +1,5 @@
-// 编译指令：g++ static_class.cpp -o static_class
-// 运行指令：./static_class
+// 编译指令：g++ static_class_members.cpp -o static_class_members
+// 运行指令：./static_class_members
 
 #include <iostream>
 using namespace std;

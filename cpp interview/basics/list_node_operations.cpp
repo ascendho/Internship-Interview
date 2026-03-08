@@ -1,5 +1,5 @@
-// 编译指令：g++ Copy_and_Modify.cpp -o Copy_and_Modify
-// 运行指令：./Copy_and_Modify
+// 编译指令：g++ list_node_operations.cpp -o list_node_operations
+// 运行指令：./list_node_operations
 
 #include <iostream>
 using namespace std;

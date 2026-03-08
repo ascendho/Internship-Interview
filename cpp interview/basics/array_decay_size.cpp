@@ -1,5 +1,5 @@
-// 编译指令：g++ sizeof_and_strlen.cpp -o sizeof_and_strlen
-// 运行指令：./sizeof_and_strlen
+// 编译指令：g++ array_decay_size.cpp -o array_decay_size
+// 运行指令：./array_decay_size
 
 
 #include <iostream>

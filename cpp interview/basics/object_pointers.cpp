@@ -1,5 +1,5 @@
-// 编译指令：g++ objPointer.cpp -o objPointer
-// 运行指令：./objPointer
+// 编译指令：g++ object_pointers.cpp -o object_pointers
+// 运行指令：./object_pointers
 
 #include <iostream>
 using namespace std;
