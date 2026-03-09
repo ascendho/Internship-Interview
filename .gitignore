@@ -18,8 +18,8 @@ out/
 
 # Ignore compiled executables in 'cpp interview/basics' but keep sources
 # (escape space in directory name)
-cpp\ interview/basics/*
-!cpp\ interview/basics/*.cpp
-!cpp\ interview/basics/*.c
-!cpp\ interview/basics/*.h
-!cpp\ interview/basics/*.hpp
+cpp\ interview/*
+!cpp\ interview/*.cpp
+!cpp\ interview/*.c
+!cpp\ interview/*.h
+!cpp\ interview/*.hpp
